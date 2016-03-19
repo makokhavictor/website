@@ -1,0 +1,13 @@
+
+.col1, .col2, .col3, .col4, .col1-ful { display:inline-block;height:auto;text-align:left;overflow:hidden;}
+.col1-ful {width:100%;height:auto;float:left;text-align:left;}
+.col1{ width:85%; padding: 0 10px;margin:5px 0;position:relative;}
+.col5{ width:87%; padding: 0 0 0 10px;margin:5px 0;position:relative; float:left;}
+.col2{ width:49%; margin:0 auto;}
+.col3{ width:32%; margin:0 auto;}
+.col4{ width:24%; margin:0 auto 0;}
+
+.column-1, .column-2, .column-3 {float:left; display: inline-block;text-align:center;}
+.column-1 {width:100%;}
+.column-2 {width:50%;}
+.column-3 {width:33.33%;}
